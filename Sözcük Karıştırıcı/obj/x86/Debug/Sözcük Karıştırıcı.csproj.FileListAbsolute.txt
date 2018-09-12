@@ -1,0 +1,18 @@
+c:\users\main\documents\visual studio 2010\Projects\Sözcük Karıştırıcı\Sözcük Karıştırıcı\bin\Debug\Sözcük Karıştırıcı.exe
+c:\users\main\documents\visual studio 2010\Projects\Sözcük Karıştırıcı\Sözcük Karıştırıcı\bin\Debug\Sözcük Karıştırıcı.pdb
+c:\users\main\documents\visual studio 2010\Projects\Sözcük Karıştırıcı\Sözcük Karıştırıcı\obj\x86\Debug\Sözcük_Karıştırıcı.Form1.resources
+c:\users\main\documents\visual studio 2010\Projects\Sözcük Karıştırıcı\Sözcük Karıştırıcı\obj\x86\Debug\Sözcük_Karıştırıcı.Properties.Resources.resources
+c:\users\main\documents\visual studio 2010\Projects\Sözcük Karıştırıcı\Sözcük Karıştırıcı\obj\x86\Debug\Sözcük Karıştırıcı.csproj.GenerateResource.Cache
+c:\users\main\documents\visual studio 2010\Projects\Sözcük Karıştırıcı\Sözcük Karıştırıcı\obj\x86\Debug\Sözcük Karıştırıcı.exe
+c:\users\main\documents\visual studio 2010\Projects\Sözcük Karıştırıcı\Sözcük Karıştırıcı\obj\x86\Debug\Sözcük Karıştırıcı.pdb
+C:\Users\Main\documents\visual studio 2010\Projects\Sözcük Karıştırıcı\Sözcük Karıştırıcı\obj\x86\Debug\Sözcük Karıştırıcı.csprojResolveAssemblyReference.cache
+C:\Users\Main\documents\visual studio 2010\Projects\Sözcük Karıştırıcı\Sözcük Karıştırıcı\obj\x86\Debug\Sözcük_Karıştırıcı.about.resources
+\\VBOXSVR\c60600950600891f\Documents\Visual Studio 2010\Projects\Sözcük Karıştırıcı\Sözcük Karıştırıcı\obj\x86\Debug\Sözcük Karıştırıcı.exe
+\\VBOXSVR\c60600950600891f\Documents\Visual Studio 2010\Projects\Sözcük Karıştırıcı\Sözcük Karıştırıcı\obj\x86\Debug\Sözcük Karıştırıcı.pdb
+\\VBOXSVR\c60600950600891f\Documents\Visual Studio 2010\Projects\Sözcük Karıştırıcı\Sözcük Karıştırıcı\bin\Debug\Sözcük Karıştırıcı.exe
+\\VBOXSVR\c60600950600891f\Documents\Visual Studio 2010\Projects\Sözcük Karıştırıcı\Sözcük Karıştırıcı\bin\Debug\Sözcük Karıştırıcı.pdb
+\\VBOXSVR\c60600950600891f\Documents\Visual Studio 2010\Projects\Sözcük Karıştırıcı\Sözcük Karıştırıcı\obj\x86\Debug\Sözcük Karıştırıcı.csprojResolveAssemblyReference.cache
+\\VBOXSVR\c60600950600891f\Documents\Visual Studio 2010\Projects\Sözcük Karıştırıcı\Sözcük Karıştırıcı\obj\x86\Debug\Sözcük_Karıştırıcı.about.resources
+\\VBOXSVR\c60600950600891f\Documents\Visual Studio 2010\Projects\Sözcük Karıştırıcı\Sözcük Karıştırıcı\obj\x86\Debug\Sözcük_Karıştırıcı.Form1.resources
+\\VBOXSVR\c60600950600891f\Documents\Visual Studio 2010\Projects\Sözcük Karıştırıcı\Sözcük Karıştırıcı\obj\x86\Debug\Sözcük_Karıştırıcı.Properties.Resources.resources
+\\VBOXSVR\c60600950600891f\Documents\Visual Studio 2010\Projects\Sözcük Karıştırıcı\Sözcük Karıştırıcı\obj\x86\Debug\Sözcük Karıştırıcı.csproj.GenerateResource.Cache
